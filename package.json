@@ -1,0 +1,24 @@
+{
+  "name": "drivemart-vehicle-rentals",
+  "version": "2.0.0",
+  "description": "DriveMart — India's Marketplace for Vehicle Rentals",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "seed": "node db/seed.js",
+    "test": "node --check server.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [
+    "bike-rental",
+    "marketplace",
+    "self-drive",
+    "chhatrapati-sambhajinagar",
+    "torqo"
+  ],
+  "author": "DriveMart Technologies Pvt. Ltd.",
+  "license": "ISC"
+}
